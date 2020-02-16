@@ -20,7 +20,7 @@
 
 
 # D:
-- Aerial duel = 0.25
+- Air duel = 0.25
 - Head Pass = 0.05
 - Launch = 0.05
 - Clearance 0.3
