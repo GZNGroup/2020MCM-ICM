@@ -3,11 +3,16 @@
 - Ground Attacking duel
 - Acceleration
 - Shot
-- Pass-Cross
+- Cross
+- Head Pass
+- Touch
 
 
 # M:
-- Pass
+- Cross
+- High Pass
+- Simple Pass
+- Smart Pass
 - Ground Attacking duel
 - Ground defending duel
 - Ground loose ball duel
@@ -16,6 +21,7 @@
 
 # D:
 - Aerial duel
+- Head Pass
 - Launch
 - Clearance
 - Ground defending duel
