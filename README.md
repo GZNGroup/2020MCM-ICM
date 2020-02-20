@@ -30,27 +30,38 @@
 # *Content*
 
 ## 1	Introduction	3
+
 - 1.1 Background	3
 - 1.2 Problem Restatement	3
+
 ## 2	Preparation of the Models	3
+
 - 2.1 Processing Tools	3
 - 2.2 Data Cleaning	4
+
 ## 3	Establishment of PNM and Analysis of Influence Factors	4
+
 - 3.1 Pass Evaluation Index (PEI）	4
 - 3.2 Pass Network Model (PNM) and Recognition of Network Pattern	6
 - 3.3 Fluctuation of Passing State at The Time	6
+
 ## 4	Soccer Team Indexes and Performance Prediction Based on ML	7
+
 - 4.1 Static Index (SI)	8
 - 4.2 Dynamic Index (DI)	9
 	- 4.2.1 Data Cleaning and Feature Engineering	9
 	- 4.2.2 Visualization Analysis	9
 - 4.2.3 RFC Establishment, Optimization, and Training	12
-# 5	Design of Structural Strategies Driven by SA	13
+
+## 5	Design of Structural Strategies Driven by SA	13
+
 - 5.1 Position Evaluation Engineering (PEE)	13
 - 5.2 Optimization of Permutation and Combination Based on SA Algorithm	14
 - 5.3 Other Structural Strategy Factors	15
 - 5.4 Structural Strategy Conclusion	16
+
 ## 6	Model Extension Combined with Group Dynamics	16
+
 - 6.1 Group and Soccer Team	17
 	- 6.1.1 Group Cohesiveness	17
 	- 6.1.2 Group Standard and Group Pressure	17
@@ -58,9 +69,12 @@
 	- 6.1.4 Leadership and Group Performance	18
 	- 6.1.5 Group Structure	18
 - 6.2 Other influence factor of successful teamwork	18
+
 ## 7	Evaluation	18
+
 - 7.1 Strength	18
 - 7.2 Weakness	19
+
 ## 8	Reference	19
 
 
