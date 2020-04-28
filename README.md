@@ -1,8 +1,15 @@
+
 # **Soccer Teamwork Evaluation Models**
+# 足球团队合作评价模型
 
 - <u>2020MCM-ICM ProblemD</u>
-- ***Finalist***方案
-> 2020年美国大学生数学建模竞赛ICM-D题
+- ***Finalist*** 方案
+> 2020年美国大学生数学建模竞赛ICM-D题 特等奖提名
+> ## [GitHub仓库](https://github.com/HITMCMTeam/2020MCM-ICM)
+> ## [CSDN博客](https://blog.csdn.net/gzn00417/article/details/105813943)
+
+![Certificate](https://img-blog.csdnimg.cn/20200428143915600.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2d6bjAwNDE3,size_16,color_FFFFFF,t_70)
+
 
 ##  ***Summary***
 
@@ -28,7 +35,7 @@
 
 <u>**Key words:**</u>  *Network; Graph theory; Calculus; Machine learning; Random forest classifier; Simulated annealing; Heat map; Group dynamics*
 
-# *Content*
+# 0 *Content*
 
 ## 1	Introduction	3
 
@@ -78,11 +85,53 @@
 
 ## 8	Reference	19
 
-
-
-
-
-
-
-
+> # 0 *目录*
+> 
+> ## 1	绪论	3
+> 
+> - 1.1 背景	3
+> - 1.2 问题重述	3
+> 
+> ## 2	模型准备	3
+> 
+> - 2.1 预处理工具	3
+> - 2.2 数据清洗	4
+> 
+> ## 3	传球网络模型（PNM）的建立和影响因子分析	4
+> 
+> - 3.1 传球评价指标 (PEI）	4
+> - 3.2 传球网络模型（PNM）构建及识别网络模式	6
+> - 3.3 时间尺度上传球状态波动	6
+> 
+> ## 4	足球团队指标和基于机器学习的球队表现预测	7
+> 
+> - 4.1 静态指标 (SI)	8
+> - 4.2 动态指标 (DI)	9
+> 	- 4.2.1 数据清洗和特征工程	9
+> 	- 4.2.2 可视化分析	9
+> - 4.2.3 随机森立分类器模型的建立、参数调优和训练	12
+> 
+> ## 5	模拟退火算法驱动的结构策略设计	13
+> 
+> - 5.1 位置评价工程（PEE）	13
+> - 5.2 基于SA算法优化排列组合	14
+> - 5.3 其他结构策略因素	15
+> - 5.4 结构性策略总结	16
+> 
+> ## 6	结合团队动力学的模型拓展	16
+> 
+> - 6.1 团体动力学和足球队	17
+> 	- 6.1.1 群体内聚力	17
+> 	- 6.1.2 群体标准和群体压力	17
+> 	- 6.1.3 个人动机和群体目标	17
+> 	- 6.1.4 领导与群体性能	18
+> 	- 6.1.5 群体的结构性	18
+> - 6.2 成功团队合作其他影响因素	18
+> 
+> ## 7	评价	18
+> 
+> - 7.1 优势	18
+> - 7.2 缺陷	19
+> 
+> ## 8	参考文献	19
 
