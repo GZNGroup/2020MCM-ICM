@@ -1,6 +1,7 @@
 # **Soccer Teamwork Evaluation Models**
 
 - <u>2020MCM-ICM ProblemD</u>
+- ***Finalist***方案
 > 2020年美国大学生数学建模竞赛ICM-D题
 
 ##  ***Summary***
