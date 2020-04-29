@@ -5,8 +5,16 @@
 - <u>2020MCM-ICM ProblemD</u>
 - ***Finalist*** 方案
 > 2020年美国大学生数学建模竞赛ICM-D题 特等奖提名
+>
 > ## [GitHub仓库](https://github.com/HITMCMTeam/2020MCM-ICM)
-> ## [CSDN博客](https://blog.csdn.net/gzn00417/article/details/105813943)
+>
+> ## CSDN博客（中文版）
+>
+> - [2020美赛F奖论文（一）：摘要、绪论和模型准备](https://blog.csdn.net/gzn00417/article/details/105813943)
+> - [2020美赛F奖论文（二）：传球网络模型（PNM）的建立和影响因子分析](https://blog.csdn.net/gzn00417/article/details/105813807)
+> - [2020美赛F奖论文（三）：足球团队指标和基于机器学习的球队表现预测](https://blog.csdn.net/gzn00417/article/details/105838230)
+> - [2020美赛F奖论文（四）：模拟退火算法驱动的结构策略设计](https://blog.csdn.net/gzn00417/article/details/105838880)
+> - [2020美赛F奖论文（五）：结合团队动力学的模型拓展、模型评价](https://blog.csdn.net/gzn00417/article/details/105839549)
 
 ![Certificate](https://img-blog.csdnimg.cn/20200428143915600.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2d6bjAwNDE3,size_16,color_FFFFFF,t_70)
 
